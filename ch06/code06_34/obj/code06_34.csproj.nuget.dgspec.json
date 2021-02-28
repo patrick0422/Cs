@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ytw\\C#\\Cs\\ch06\\code06_29\\code06_29.csproj": {}
+    "F:\\ytw\\C#\\Cs\\ch06\\code06_34\\code06_34.csproj": {}
   },
   "projects": {
-    "F:\\ytw\\C#\\Cs\\ch06\\code06_29\\code06_29.csproj": {
+    "F:\\ytw\\C#\\Cs\\ch06\\code06_34\\code06_34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ytw\\C#\\Cs\\ch06\\code06_29\\code06_29.csproj",
-        "projectName": "code06_29",
-        "projectPath": "F:\\ytw\\C#\\Cs\\ch06\\code06_29\\code06_29.csproj",
+        "projectUniqueName": "F:\\ytw\\C#\\Cs\\ch06\\code06_34\\code06_34.csproj",
+        "projectName": "code06_34",
+        "projectPath": "F:\\ytw\\C#\\Cs\\ch06\\code06_34\\code06_34.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "F:\\ytw\\C#\\Cs\\ch06\\code06_29\\obj\\",
+        "outputPath": "F:\\ytw\\C#\\Cs\\ch06\\code06_34\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

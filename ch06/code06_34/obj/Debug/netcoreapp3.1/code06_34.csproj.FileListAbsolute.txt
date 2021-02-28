@@ -1,0 +1,13 @@
+F:\ytw\C#\Cs\ch06\code06_34\bin\Debug\netcoreapp3.1\code06_34.exe
+F:\ytw\C#\Cs\ch06\code06_34\bin\Debug\netcoreapp3.1\code06_34.deps.json
+F:\ytw\C#\Cs\ch06\code06_34\bin\Debug\netcoreapp3.1\code06_34.runtimeconfig.json
+F:\ytw\C#\Cs\ch06\code06_34\bin\Debug\netcoreapp3.1\code06_34.runtimeconfig.dev.json
+F:\ytw\C#\Cs\ch06\code06_34\bin\Debug\netcoreapp3.1\code06_34.dll
+F:\ytw\C#\Cs\ch06\code06_34\bin\Debug\netcoreapp3.1\code06_34.pdb
+F:\ytw\C#\Cs\ch06\code06_34\obj\Debug\netcoreapp3.1\code06_34.csprojAssemblyReference.cache
+F:\ytw\C#\Cs\ch06\code06_34\obj\Debug\netcoreapp3.1\code06_34.AssemblyInfoInputs.cache
+F:\ytw\C#\Cs\ch06\code06_34\obj\Debug\netcoreapp3.1\code06_34.AssemblyInfo.cs
+F:\ytw\C#\Cs\ch06\code06_34\obj\Debug\netcoreapp3.1\code06_34.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\ch06\code06_34\obj\Debug\netcoreapp3.1\code06_34.dll
+F:\ytw\C#\Cs\ch06\code06_34\obj\Debug\netcoreapp3.1\code06_34.pdb
+F:\ytw\C#\Cs\ch06\code06_34\obj\Debug\netcoreapp3.1\code06_34.genruntimeconfig.cache
