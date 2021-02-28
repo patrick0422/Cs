@@ -1,0 +1,12 @@
+F:\ytw\C#\ch04\pyramid\bin\Debug\netcoreapp3.1\pyramid.exe
+F:\ytw\C#\ch04\pyramid\bin\Debug\netcoreapp3.1\pyramid.deps.json
+F:\ytw\C#\ch04\pyramid\bin\Debug\netcoreapp3.1\pyramid.runtimeconfig.json
+F:\ytw\C#\ch04\pyramid\bin\Debug\netcoreapp3.1\pyramid.runtimeconfig.dev.json
+F:\ytw\C#\ch04\pyramid\bin\Debug\netcoreapp3.1\pyramid.dll
+F:\ytw\C#\ch04\pyramid\bin\Debug\netcoreapp3.1\pyramid.pdb
+F:\ytw\C#\ch04\pyramid\obj\Debug\netcoreapp3.1\pyramid.AssemblyInfoInputs.cache
+F:\ytw\C#\ch04\pyramid\obj\Debug\netcoreapp3.1\pyramid.AssemblyInfo.cs
+F:\ytw\C#\ch04\pyramid\obj\Debug\netcoreapp3.1\pyramid.csproj.CoreCompileInputs.cache
+F:\ytw\C#\ch04\pyramid\obj\Debug\netcoreapp3.1\pyramid.dll
+F:\ytw\C#\ch04\pyramid\obj\Debug\netcoreapp3.1\pyramid.pdb
+F:\ytw\C#\ch04\pyramid\obj\Debug\netcoreapp3.1\pyramid.genruntimeconfig.cache

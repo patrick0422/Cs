@@ -1,0 +1,13 @@
+F:\ytw\C#\ch05\code05_09\bin\Debug\netcoreapp3.1\code05_09.exe
+F:\ytw\C#\ch05\code05_09\bin\Debug\netcoreapp3.1\code05_09.deps.json
+F:\ytw\C#\ch05\code05_09\bin\Debug\netcoreapp3.1\code05_09.runtimeconfig.json
+F:\ytw\C#\ch05\code05_09\bin\Debug\netcoreapp3.1\code05_09.runtimeconfig.dev.json
+F:\ytw\C#\ch05\code05_09\bin\Debug\netcoreapp3.1\code05_09.dll
+F:\ytw\C#\ch05\code05_09\bin\Debug\netcoreapp3.1\code05_09.pdb
+F:\ytw\C#\ch05\code05_09\obj\Debug\netcoreapp3.1\code05_09.csprojAssemblyReference.cache
+F:\ytw\C#\ch05\code05_09\obj\Debug\netcoreapp3.1\code05_09.AssemblyInfoInputs.cache
+F:\ytw\C#\ch05\code05_09\obj\Debug\netcoreapp3.1\code05_09.AssemblyInfo.cs
+F:\ytw\C#\ch05\code05_09\obj\Debug\netcoreapp3.1\code05_09.csproj.CoreCompileInputs.cache
+F:\ytw\C#\ch05\code05_09\obj\Debug\netcoreapp3.1\code05_09.dll
+F:\ytw\C#\ch05\code05_09\obj\Debug\netcoreapp3.1\code05_09.pdb
+F:\ytw\C#\ch05\code05_09\obj\Debug\netcoreapp3.1\code05_09.genruntimeconfig.cache

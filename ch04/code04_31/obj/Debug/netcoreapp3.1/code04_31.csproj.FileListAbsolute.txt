@@ -1,0 +1,13 @@
+F:\ytw\C#\ch04\code04_31\bin\Debug\netcoreapp3.1\code04_31.exe
+F:\ytw\C#\ch04\code04_31\bin\Debug\netcoreapp3.1\code04_31.deps.json
+F:\ytw\C#\ch04\code04_31\bin\Debug\netcoreapp3.1\code04_31.runtimeconfig.json
+F:\ytw\C#\ch04\code04_31\bin\Debug\netcoreapp3.1\code04_31.runtimeconfig.dev.json
+F:\ytw\C#\ch04\code04_31\bin\Debug\netcoreapp3.1\code04_31.dll
+F:\ytw\C#\ch04\code04_31\bin\Debug\netcoreapp3.1\code04_31.pdb
+F:\ytw\C#\ch04\code04_31\obj\Debug\netcoreapp3.1\code04_31.csprojAssemblyReference.cache
+F:\ytw\C#\ch04\code04_31\obj\Debug\netcoreapp3.1\code04_31.AssemblyInfoInputs.cache
+F:\ytw\C#\ch04\code04_31\obj\Debug\netcoreapp3.1\code04_31.AssemblyInfo.cs
+F:\ytw\C#\ch04\code04_31\obj\Debug\netcoreapp3.1\code04_31.csproj.CoreCompileInputs.cache
+F:\ytw\C#\ch04\code04_31\obj\Debug\netcoreapp3.1\code04_31.dll
+F:\ytw\C#\ch04\code04_31\obj\Debug\netcoreapp3.1\code04_31.pdb
+F:\ytw\C#\ch04\code04_31\obj\Debug\netcoreapp3.1\code04_31.genruntimeconfig.cache
