@@ -11,13 +11,21 @@ namespace _20210305_01
     {
         static void Main(string[] args)
         {
-            uint a = uint.MaxValue;
+            int a = 123;
+            string b = a.ToString();
+            WriteLine(b);
 
-            WriteLine(a);
+            float c = 3.14f;
+            string d = c.ToString();
+            WriteLine(d);
 
-            a += 2;
+            string e = "123456";
+            int f = Convert.ToInt32(e);
+            WriteLine(f);
 
-            WriteLine(a);
+            string g = "1.2345";
+            float h = float.Parse(g);
+            WriteLine(h);
         }
     }
 }
