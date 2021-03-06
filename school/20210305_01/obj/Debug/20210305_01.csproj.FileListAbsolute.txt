@@ -1,0 +1,7 @@
+D:\Coding\Cs\school\20210305_01\bin\Debug\20210305_01.exe.config
+D:\Coding\Cs\school\20210305_01\bin\Debug\20210305_01.exe
+D:\Coding\Cs\school\20210305_01\bin\Debug\20210305_01.pdb
+D:\Coding\Cs\school\20210305_01\obj\Debug\20210305_01.csprojAssemblyReference.cache
+D:\Coding\Cs\school\20210305_01\obj\Debug\20210305_01.csproj.CoreCompileInputs.cache
+D:\Coding\Cs\school\20210305_01\obj\Debug\20210305_01.exe
+D:\Coding\Cs\school\20210305_01\obj\Debug\20210305_01.pdb
