@@ -1,0 +1,9 @@
+F:\ytw\C#\Form\MoveResizeApp\bin\Debug\MoveResizeApp.exe.config
+F:\ytw\C#\Form\MoveResizeApp\bin\Debug\MoveResizeApp.exe
+F:\ytw\C#\Form\MoveResizeApp\bin\Debug\MoveResizeApp.pdb
+F:\ytw\C#\Form\MoveResizeApp\obj\Debug\MoveResizeApp.Form1.resources
+F:\ytw\C#\Form\MoveResizeApp\obj\Debug\MoveResizeApp.Properties.Resources.resources
+F:\ytw\C#\Form\MoveResizeApp\obj\Debug\MoveResizeApp.csproj.GenerateResource.cache
+F:\ytw\C#\Form\MoveResizeApp\obj\Debug\MoveResizeApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Form\MoveResizeApp\obj\Debug\MoveResizeApp.exe
+F:\ytw\C#\Form\MoveResizeApp\obj\Debug\MoveResizeApp.pdb

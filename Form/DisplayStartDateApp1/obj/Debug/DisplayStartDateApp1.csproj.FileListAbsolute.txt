@@ -1,0 +1,10 @@
+F:\ytw\C#\Form\DisplayStartDateApp1\bin\Debug\DisplayStartDateApp1.exe.config
+F:\ytw\C#\Form\DisplayStartDateApp1\bin\Debug\DisplayStartDateApp1.exe
+F:\ytw\C#\Form\DisplayStartDateApp1\bin\Debug\DisplayStartDateApp1.pdb
+F:\ytw\C#\Form\DisplayStartDateApp1\obj\Debug\DisplayStartDateApp1.csprojAssemblyReference.cache
+F:\ytw\C#\Form\DisplayStartDateApp1\obj\Debug\DisplayStartDateApp1.Form1.resources
+F:\ytw\C#\Form\DisplayStartDateApp1\obj\Debug\DisplayStartDateApp1.Properties.Resources.resources
+F:\ytw\C#\Form\DisplayStartDateApp1\obj\Debug\DisplayStartDateApp1.csproj.GenerateResource.cache
+F:\ytw\C#\Form\DisplayStartDateApp1\obj\Debug\DisplayStartDateApp1.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Form\DisplayStartDateApp1\obj\Debug\DisplayStartDateApp1.exe
+F:\ytw\C#\Form\DisplayStartDateApp1\obj\Debug\DisplayStartDateApp1.pdb
