@@ -1,0 +1,9 @@
+F:\ytw\C#\Form\CheckedListBoxApp\bin\Debug\CheckedListBoxApp.exe.config
+F:\ytw\C#\Form\CheckedListBoxApp\bin\Debug\CheckedListBoxApp.exe
+F:\ytw\C#\Form\CheckedListBoxApp\bin\Debug\CheckedListBoxApp.pdb
+F:\ytw\C#\Form\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.Form1.resources
+F:\ytw\C#\Form\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.Properties.Resources.resources
+F:\ytw\C#\Form\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.csproj.GenerateResource.cache
+F:\ytw\C#\Form\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Form\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.exe
+F:\ytw\C#\Form\CheckedListBoxApp\obj\Debug\CheckedListBoxApp.pdb

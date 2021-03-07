@@ -1,0 +1,10 @@
+F:\ytw\C#\Form\ComboBoxApp\bin\Debug\ComboBoxApp.exe.config
+F:\ytw\C#\Form\ComboBoxApp\bin\Debug\ComboBoxApp.exe
+F:\ytw\C#\Form\ComboBoxApp\bin\Debug\ComboBoxApp.pdb
+F:\ytw\C#\Form\ComboBoxApp\obj\Debug\ComboBoxApp.csprojAssemblyReference.cache
+F:\ytw\C#\Form\ComboBoxApp\obj\Debug\ComboBoxApp.Form1.resources
+F:\ytw\C#\Form\ComboBoxApp\obj\Debug\ComboBoxApp.Properties.Resources.resources
+F:\ytw\C#\Form\ComboBoxApp\obj\Debug\ComboBoxApp.csproj.GenerateResource.cache
+F:\ytw\C#\Form\ComboBoxApp\obj\Debug\ComboBoxApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Form\ComboBoxApp\obj\Debug\ComboBoxApp.exe
+F:\ytw\C#\Form\ComboBoxApp\obj\Debug\ComboBoxApp.pdb

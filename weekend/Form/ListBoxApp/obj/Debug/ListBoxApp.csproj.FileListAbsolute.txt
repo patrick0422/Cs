@@ -1,0 +1,9 @@
+F:\ytw\C#\Form\ListBoxApp\bin\Debug\ListBoxApp.exe.config
+F:\ytw\C#\Form\ListBoxApp\bin\Debug\ListBoxApp.exe
+F:\ytw\C#\Form\ListBoxApp\bin\Debug\ListBoxApp.pdb
+F:\ytw\C#\Form\ListBoxApp\obj\Debug\ListBoxApp.Form1.resources
+F:\ytw\C#\Form\ListBoxApp\obj\Debug\ListBoxApp.Properties.Resources.resources
+F:\ytw\C#\Form\ListBoxApp\obj\Debug\ListBoxApp.csproj.GenerateResource.cache
+F:\ytw\C#\Form\ListBoxApp\obj\Debug\ListBoxApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Form\ListBoxApp\obj\Debug\ListBoxApp.exe
+F:\ytw\C#\Form\ListBoxApp\obj\Debug\ListBoxApp.pdb

@@ -1,0 +1,10 @@
+F:\ytw\C#\Form\LinkLabelApp\bin\Debug\LinkLabelApp.exe.config
+F:\ytw\C#\Form\LinkLabelApp\bin\Debug\LinkLabelApp.exe
+F:\ytw\C#\Form\LinkLabelApp\bin\Debug\LinkLabelApp.pdb
+F:\ytw\C#\Form\LinkLabelApp\obj\Debug\LinkLabelApp.csprojAssemblyReference.cache
+F:\ytw\C#\Form\LinkLabelApp\obj\Debug\LinkLabelApp.Form1.resources
+F:\ytw\C#\Form\LinkLabelApp\obj\Debug\LinkLabelApp.Properties.Resources.resources
+F:\ytw\C#\Form\LinkLabelApp\obj\Debug\LinkLabelApp.csproj.GenerateResource.cache
+F:\ytw\C#\Form\LinkLabelApp\obj\Debug\LinkLabelApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Form\LinkLabelApp\obj\Debug\LinkLabelApp.exe
+F:\ytw\C#\Form\LinkLabelApp\obj\Debug\LinkLabelApp.pdb
