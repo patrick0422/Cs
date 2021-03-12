@@ -19,7 +19,7 @@ namespace _20210311_02
             {
                 if (num % i == 0)
                 {
-                    Console.WriteLine(num +"? 무야호~");
+                    Console.WriteLine(num +"은 안소수... 무야호~");
                     return;
                 }
             }
