@@ -40,6 +40,7 @@ namespace _20200312_02
             {
                 sum = RecursiveFact(num - 1, sum * num);
             }
+
             return sum;
         }
 

@@ -1,0 +1,7 @@
+D:\Coding\Cs\school\20200312_03\bin\Debug\20200312_03.exe.config
+D:\Coding\Cs\school\20200312_03\bin\Debug\20200312_03.exe
+D:\Coding\Cs\school\20200312_03\bin\Debug\20200312_03.pdb
+D:\Coding\Cs\school\20200312_03\obj\Debug\20200312_03.csprojAssemblyReference.cache
+D:\Coding\Cs\school\20200312_03\obj\Debug\20200312_03.csproj.CoreCompileInputs.cache
+D:\Coding\Cs\school\20200312_03\obj\Debug\20200312_03.exe
+D:\Coding\Cs\school\20200312_03\obj\Debug\20200312_03.pdb
