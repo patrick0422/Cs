@@ -1,0 +1,9 @@
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\bin\Debug\PrintDialogApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\bin\Debug\PrintDialogApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\bin\Debug\PrintDialogApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\obj\Debug\PrintDialogApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\obj\Debug\PrintDialogApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\obj\Debug\PrintDialogApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\obj\Debug\PrintDialogApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\obj\Debug\PrintDialogApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\PrintDialogApp\obj\Debug\PrintDialogApp.pdb

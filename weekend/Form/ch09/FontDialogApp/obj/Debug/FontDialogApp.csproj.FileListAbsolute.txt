@@ -1,0 +1,9 @@
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\bin\Debug\FontDialogApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\bin\Debug\FontDialogApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\bin\Debug\FontDialogApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\obj\Debug\FontDialogApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\obj\Debug\FontDialogApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\obj\Debug\FontDialogApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\obj\Debug\FontDialogApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\obj\Debug\FontDialogApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\FontDialogApp\obj\Debug\FontDialogApp.pdb

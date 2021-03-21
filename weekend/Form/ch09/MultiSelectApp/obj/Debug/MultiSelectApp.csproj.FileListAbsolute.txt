@@ -1,0 +1,9 @@
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\bin\Debug\MultiSelectApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\bin\Debug\MultiSelectApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\bin\Debug\MultiSelectApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\obj\Debug\MultiSelectApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\obj\Debug\MultiSelectApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\obj\Debug\MultiSelectApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\obj\Debug\MultiSelectApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\obj\Debug\MultiSelectApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\MultiSelectApp\obj\Debug\MultiSelectApp.pdb

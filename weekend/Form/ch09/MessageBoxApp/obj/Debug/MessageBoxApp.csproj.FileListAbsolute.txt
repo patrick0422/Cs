@@ -1,0 +1,9 @@
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\bin\Debug\MessageBoxApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\bin\Debug\MessageBoxApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\bin\Debug\MessageBoxApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\obj\Debug\MessageBoxApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\obj\Debug\MessageBoxApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\obj\Debug\MessageBoxApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\obj\Debug\MessageBoxApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\obj\Debug\MessageBoxApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxApp\obj\Debug\MessageBoxApp.pdb

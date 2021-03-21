@@ -1,0 +1,10 @@
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\bin\Debug\MenuClickApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\bin\Debug\MenuClickApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\bin\Debug\MenuClickApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csprojAssemblyReference.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.pdb

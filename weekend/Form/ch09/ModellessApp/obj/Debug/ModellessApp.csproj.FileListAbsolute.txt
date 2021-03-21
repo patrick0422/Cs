@@ -1,0 +1,10 @@
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\bin\Debug\ModellessApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\bin\Debug\ModellessApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\bin\Debug\ModellessApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\obj\Debug\ModellessApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\obj\Debug\ModellessApp.Form2.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\obj\Debug\ModellessApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\obj\Debug\ModellessApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\obj\Debug\ModellessApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\obj\Debug\ModellessApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\ModellessApp\obj\Debug\ModellessApp.pdb

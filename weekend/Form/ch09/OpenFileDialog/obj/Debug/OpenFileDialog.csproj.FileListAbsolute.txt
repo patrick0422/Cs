@@ -1,0 +1,9 @@
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\bin\Debug\OpenFileDialog.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\bin\Debug\OpenFileDialog.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\bin\Debug\OpenFileDialog.pdb
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\obj\Debug\OpenFileDialog.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\obj\Debug\OpenFileDialog.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\obj\Debug\OpenFileDialog.exe
+F:\ytw\C#\Cs\weekend\Form\ch09\OpenFileDialog\obj\Debug\OpenFileDialog.pdb
