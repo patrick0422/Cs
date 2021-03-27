@@ -1,0 +1,10 @@
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\bin\Debug\HitTestingApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\bin\Debug\HitTestingApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\bin\Debug\HitTestingApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\obj\Debug\HitTestingApp.csprojAssemblyReference.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\obj\Debug\HitTestingApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\obj\Debug\HitTestingApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\obj\Debug\HitTestingApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\obj\Debug\HitTestingApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\obj\Debug\HitTestingApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\HitTestingApp\obj\Debug\HitTestingApp.pdb
