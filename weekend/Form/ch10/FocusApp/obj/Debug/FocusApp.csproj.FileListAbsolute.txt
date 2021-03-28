@@ -1,0 +1,10 @@
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\bin\Debug\FocusApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\bin\Debug\FocusApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\bin\Debug\FocusApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\obj\Debug\FocusApp.csprojAssemblyReference.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\obj\Debug\FocusApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\obj\Debug\FocusApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\obj\Debug\FocusApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\obj\Debug\FocusApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\obj\Debug\FocusApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusApp\obj\Debug\FocusApp.pdb

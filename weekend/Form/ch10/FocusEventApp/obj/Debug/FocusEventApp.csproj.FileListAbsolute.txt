@@ -1,0 +1,9 @@
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\bin\Debug\FocusEventApp.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\bin\Debug\FocusEventApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\bin\Debug\FocusEventApp.pdb
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\obj\Debug\FocusEventApp.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\obj\Debug\FocusEventApp.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\obj\Debug\FocusEventApp.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\obj\Debug\FocusEventApp.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\obj\Debug\FocusEventApp.exe
+F:\ytw\C#\Cs\weekend\Form\ch10\FocusEventApp\obj\Debug\FocusEventApp.pdb
