@@ -8,3 +8,13 @@ F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csproj.Genera
 F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csproj.CoreCompileInputs.cache
 F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.exe
 F:\ytw\C#\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.pdb
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\bin\Debug\MenuClickApp.exe.config
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\bin\Debug\MenuClickApp.exe
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\bin\Debug\MenuClickApp.pdb
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csprojAssemblyReference.cache
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.Form1.resources
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.Properties.Resources.resources
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csproj.GenerateResource.cache
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.csproj.CoreCompileInputs.cache
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.exe
+D:\Coding\Cs\weekend\Form\ch10\MenuClickApp\obj\Debug\MenuClickApp.pdb

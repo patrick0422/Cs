@@ -1,0 +1,7 @@
+D:\Coding\Cs\school\TextRPG\bin\Debug\TextRPG.exe.config
+D:\Coding\Cs\school\TextRPG\bin\Debug\TextRPG.exe
+D:\Coding\Cs\school\TextRPG\bin\Debug\TextRPG.pdb
+D:\Coding\Cs\school\TextRPG\obj\Debug\TextRPG.csprojAssemblyReference.cache
+D:\Coding\Cs\school\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+D:\Coding\Cs\school\TextRPG\obj\Debug\TextRPG.exe
+D:\Coding\Cs\school\TextRPG\obj\Debug\TextRPG.pdb
