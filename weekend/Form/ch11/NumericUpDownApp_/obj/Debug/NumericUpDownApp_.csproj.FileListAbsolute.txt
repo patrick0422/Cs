@@ -1,0 +1,10 @@
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\bin\Debug\NumericUpDownApp_.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\bin\Debug\NumericUpDownApp_.exe
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\bin\Debug\NumericUpDownApp_.pdb
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\obj\Debug\NumericUpDownApp_.csprojAssemblyReference.cache
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\obj\Debug\NumericUpDownApp_.Form1.resources
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\obj\Debug\NumericUpDownApp_.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\obj\Debug\NumericUpDownApp_.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\obj\Debug\NumericUpDownApp_.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\obj\Debug\NumericUpDownApp_.exe
+F:\ytw\C#\Cs\weekend\Form\ch11\NumericUpDownApp_\obj\Debug\NumericUpDownApp_.pdb

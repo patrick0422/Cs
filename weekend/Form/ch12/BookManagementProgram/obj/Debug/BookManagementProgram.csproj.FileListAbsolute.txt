@@ -1,0 +1,12 @@
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.csprojAssemblyReference.cache
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.Properties.Resources.resources
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.csproj.GenerateResource.cache
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.csproj.CoreCompileInputs.cache
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\bin\Debug\BookManagementProgram.exe.config
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\bin\Debug\BookManagementProgram.exe
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\bin\Debug\BookManagementProgram.pdb
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.Main.resources
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.BookManage.resources
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.UserManage.resources
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.exe
+F:\ytw\C#\Cs\weekend\Form\ch12\BookManagementProgram\obj\Debug\BookManagementProgram.pdb
