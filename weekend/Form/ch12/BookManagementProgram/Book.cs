@@ -8,17 +8,16 @@ namespace BookManagementProgram
 {
     class Book
     {
-        int id { get; set; }
-        string name { get; set; }
-        string publisher { get; set; }
-        int page { get; set; }
+        public string id { get; set; }
+        public string name { get; set; }
+        public string publisher { get; set; }
+        public int page { get; set; }
+
+        public int userId { get; set; }
+        public string userName { get; set; }
+        public bool isBorrowed { get; set; }
+        public DateTime borrowedAt { get; set; }
 
         public Book() { }
-        public Book(int id, string name, string publisher)
-        {
-            this.id = id;
-            this.name = name;
-            this.publisher = publisher;
-        }
     }
 }
