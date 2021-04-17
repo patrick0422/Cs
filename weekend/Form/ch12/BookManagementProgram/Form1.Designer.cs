@@ -46,24 +46,16 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.listView1 = new System.Windows.Forms.ListView();
-            this.Book_bookId = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_bookName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_bookPublisher = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_bookPage = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_UserId = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_UserName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_isBorrowed = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_BorrowedAt = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.listView2 = new System.Windows.Forms.ListView();
-            this.User_userId = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.User_userName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -230,7 +222,7 @@
             // 
             // groupBox3
             // 
-            this.groupBox3.Controls.Add(this.listView1);
+            this.groupBox3.Controls.Add(this.dataGridView1);
             this.groupBox3.Location = new System.Drawing.Point(12, 129);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(776, 174);
@@ -238,69 +230,9 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "도서 현황";
             // 
-            // listView1
-            // 
-            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.Book_bookId,
-            this.Book_bookName,
-            this.Book_bookPublisher,
-            this.Book_bookPage,
-            this.Book_UserId,
-            this.Book_UserName,
-            this.Book_isBorrowed,
-            this.Book_BorrowedAt});
-            this.listView1.Cursor = System.Windows.Forms.Cursors.No;
-            this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(6, 20);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(764, 148);
-            this.listView1.TabIndex = 0;
-            this.listView1.UseCompatibleStateImageBehavior = false;
-            this.listView1.View = System.Windows.Forms.View.Details;
-            // 
-            // Book_bookId
-            // 
-            this.Book_bookId.Text = "BookId";
-            this.Book_bookId.Width = 100;
-            // 
-            // Book_bookName
-            // 
-            this.Book_bookName.Text = "Name";
-            this.Book_bookName.Width = 129;
-            // 
-            // Book_bookPublisher
-            // 
-            this.Book_bookPublisher.Text = "Publisher";
-            this.Book_bookPublisher.Width = 138;
-            // 
-            // Book_bookPage
-            // 
-            this.Book_bookPage.Text = "Page";
-            this.Book_bookPage.Width = 41;
-            // 
-            // Book_UserId
-            // 
-            this.Book_UserId.Text = "UserId";
-            this.Book_UserId.Width = 49;
-            // 
-            // Book_UserName
-            // 
-            this.Book_UserName.Text = "UserName";
-            this.Book_UserName.Width = 72;
-            // 
-            // Book_isBorrowed
-            // 
-            this.Book_isBorrowed.Text = "isBorrowed";
-            this.Book_isBorrowed.Width = 76;
-            // 
-            // Book_BorrowedAt
-            // 
-            this.Book_BorrowedAt.Text = "BorrowedAt";
-            this.Book_BorrowedAt.Width = 154;
-            // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.listView2);
+            this.groupBox4.Controls.Add(this.dataGridView2);
             this.groupBox4.Location = new System.Drawing.Point(12, 309);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(776, 200);
@@ -308,26 +240,23 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "사용자 현황";
             // 
-            // listView2
+            // dataGridView1
             // 
-            this.listView2.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.User_userId,
-            this.User_userName});
-            this.listView2.HideSelection = false;
-            this.listView2.Location = new System.Drawing.Point(8, 20);
-            this.listView2.Name = "listView2";
-            this.listView2.Size = new System.Drawing.Size(762, 174);
-            this.listView2.TabIndex = 0;
-            this.listView2.UseCompatibleStateImageBehavior = false;
-            this.listView2.View = System.Windows.Forms.View.Details;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(0, 20);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowTemplate.Height = 23;
+            this.dataGridView1.Size = new System.Drawing.Size(776, 154);
+            this.dataGridView1.TabIndex = 0;
             // 
-            // User_userId
+            // dataGridView2
             // 
-            this.User_userId.Text = "ID";
-            // 
-            // User_userName
-            // 
-            this.User_userName.Text = "Name";
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(0, 20);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.RowTemplate.Height = 23;
+            this.dataGridView2.Size = new System.Drawing.Size(776, 180);
+            this.dataGridView2.TabIndex = 0;
             // 
             // Main
             // 
@@ -350,6 +279,8 @@
             this.groupBox2.PerformLayout();
             this.groupBox3.ResumeLayout(false);
             this.groupBox4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -375,19 +306,9 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.ColumnHeader Book_bookId;
-        private System.Windows.Forms.ColumnHeader Book_bookName;
-        private System.Windows.Forms.ColumnHeader Book_bookPublisher;
-        private System.Windows.Forms.ColumnHeader Book_bookPage;
-        private System.Windows.Forms.ColumnHeader Book_UserId;
-        private System.Windows.Forms.ColumnHeader Book_UserName;
-        private System.Windows.Forms.ColumnHeader Book_isBorrowed;
-        private System.Windows.Forms.ColumnHeader Book_BorrowedAt;
         private System.Windows.Forms.GroupBox groupBox4;
-        private System.Windows.Forms.ListView listView2;
-        private System.Windows.Forms.ColumnHeader User_userId;
-        private System.Windows.Forms.ColumnHeader User_userName;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGridView2;
     }
 }
 

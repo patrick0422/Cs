@@ -28,8 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.ListViewItem listViewItem1 = new System.Windows.Forms.ListViewItem("");
-            System.Windows.Forms.ListViewItem listViewItem2 = new System.Windows.Forms.ListViewItem("");
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -43,13 +41,10 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.listView1 = new System.Windows.Forms.ListView();
-            this.Book_Id = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_Name = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_Publisher = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.Book_Page = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -165,7 +160,7 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.listView1);
+            this.groupBox2.Controls.Add(this.dataGridView1);
             this.groupBox2.Location = new System.Drawing.Point(12, 176);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(407, 262);
@@ -173,44 +168,14 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "도서 현황";
             // 
-            // listView1
+            // dataGridView1
             // 
-            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.Book_Id,
-            this.Book_Name,
-            this.Book_Publisher,
-            this.Book_Page});
-            this.listView1.Cursor = System.Windows.Forms.Cursors.No;
-            this.listView1.HideSelection = false;
-            this.listView1.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem1,
-            listViewItem2});
-            this.listView1.Location = new System.Drawing.Point(8, 20);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(393, 236);
-            this.listView1.TabIndex = 1;
-            this.listView1.UseCompatibleStateImageBehavior = false;
-            this.listView1.View = System.Windows.Forms.View.Details;
-            // 
-            // Book_Id
-            // 
-            this.Book_Id.Text = "Id";
-            this.Book_Id.Width = 100;
-            // 
-            // Book_Name
-            // 
-            this.Book_Name.Text = "Name";
-            this.Book_Name.Width = 129;
-            // 
-            // Book_Publisher
-            // 
-            this.Book_Publisher.Text = "Publisher";
-            this.Book_Publisher.Width = 119;
-            // 
-            // Book_Page
-            // 
-            this.Book_Page.Text = "Page";
-            this.Book_Page.Width = 41;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(0, 20);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowTemplate.Height = 23;
+            this.dataGridView1.Size = new System.Drawing.Size(407, 242);
+            this.dataGridView1.TabIndex = 0;
             // 
             // BookManage
             // 
@@ -224,6 +189,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -243,10 +209,6 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.ColumnHeader Book_Id;
-        private System.Windows.Forms.ColumnHeader Book_Name;
-        private System.Windows.Forms.ColumnHeader Book_Publisher;
-        private System.Windows.Forms.ColumnHeader Book_Page;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
