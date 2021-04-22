@@ -1,9 +1,0 @@
-F:\ytw\C#\Form\PromptCloseApp\bin\Debug\PromptCloseApp.exe.config
-F:\ytw\C#\Form\PromptCloseApp\bin\Debug\PromptCloseApp.exe
-F:\ytw\C#\Form\PromptCloseApp\bin\Debug\PromptCloseApp.pdb
-F:\ytw\C#\Form\PromptCloseApp\obj\Debug\PromptCloseApp.Form1.resources
-F:\ytw\C#\Form\PromptCloseApp\obj\Debug\PromptCloseApp.Properties.Resources.resources
-F:\ytw\C#\Form\PromptCloseApp\obj\Debug\PromptCloseApp.csproj.GenerateResource.cache
-F:\ytw\C#\Form\PromptCloseApp\obj\Debug\PromptCloseApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Form\PromptCloseApp\obj\Debug\PromptCloseApp.exe
-F:\ytw\C#\Form\PromptCloseApp\obj\Debug\PromptCloseApp.pdb

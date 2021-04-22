@@ -1,9 +1,0 @@
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\bin\Debug\KeyEventApp.exe.config
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\bin\Debug\KeyEventApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\bin\Debug\KeyEventApp.pdb
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\obj\Debug\KeyEventApp.Form1.resources
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\obj\Debug\KeyEventApp.Properties.Resources.resources
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\obj\Debug\KeyEventApp.csproj.GenerateResource.cache
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\obj\Debug\KeyEventApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\obj\Debug\KeyEventApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch10\KeyEventApp\obj\Debug\KeyEventApp.pdb

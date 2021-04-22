@@ -1,9 +1,0 @@
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\bin\Debug\TimerApp.exe.config
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\bin\Debug\TimerApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\bin\Debug\TimerApp.pdb
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\obj\Debug\TimerApp.Form1.resources
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\obj\Debug\TimerApp.Properties.Resources.resources
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\obj\Debug\TimerApp.csproj.GenerateResource.cache
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\obj\Debug\TimerApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\obj\Debug\TimerApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch11\TimerApp\obj\Debug\TimerApp.pdb

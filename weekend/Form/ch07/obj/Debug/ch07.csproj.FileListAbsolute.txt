@@ -1,9 +1,0 @@
-F:\ytw\C#\Form\ch07\bin\Debug\ch07.exe.config
-F:\ytw\C#\Form\ch07\bin\Debug\ch07.exe
-F:\ytw\C#\Form\ch07\bin\Debug\ch07.pdb
-F:\ytw\C#\Form\ch07\obj\Debug\ch07.Form1.resources
-F:\ytw\C#\Form\ch07\obj\Debug\ch07.Properties.Resources.resources
-F:\ytw\C#\Form\ch07\obj\Debug\ch07.csproj.GenerateResource.cache
-F:\ytw\C#\Form\ch07\obj\Debug\ch07.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Form\ch07\obj\Debug\ch07.exe
-F:\ytw\C#\Form\ch07\obj\Debug\ch07.pdb

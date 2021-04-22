@@ -1,9 +1,0 @@
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\bin\Debug\MessageBoxButtonsApp.exe.config
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\bin\Debug\MessageBoxButtonsApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\bin\Debug\MessageBoxButtonsApp.pdb
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\obj\Debug\MessageBoxButtonsApp.Form1.resources
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\obj\Debug\MessageBoxButtonsApp.Properties.Resources.resources
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\obj\Debug\MessageBoxButtonsApp.csproj.GenerateResource.cache
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\obj\Debug\MessageBoxButtonsApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\obj\Debug\MessageBoxButtonsApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch09\MessageBoxButtonsApp\obj\Debug\MessageBoxButtonsApp.pdb

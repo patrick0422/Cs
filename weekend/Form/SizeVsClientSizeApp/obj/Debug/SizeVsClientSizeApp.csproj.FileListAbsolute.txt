@@ -1,9 +1,0 @@
-F:\ytw\C#\Form\SizeVsClientSizeApp\bin\Debug\SizeVsClientSizeApp.exe.config
-F:\ytw\C#\Form\SizeVsClientSizeApp\bin\Debug\SizeVsClientSizeApp.exe
-F:\ytw\C#\Form\SizeVsClientSizeApp\bin\Debug\SizeVsClientSizeApp.pdb
-F:\ytw\C#\Form\SizeVsClientSizeApp\obj\Debug\SizeVsClientSizeApp.Form1.resources
-F:\ytw\C#\Form\SizeVsClientSizeApp\obj\Debug\SizeVsClientSizeApp.Properties.Resources.resources
-F:\ytw\C#\Form\SizeVsClientSizeApp\obj\Debug\SizeVsClientSizeApp.csproj.GenerateResource.cache
-F:\ytw\C#\Form\SizeVsClientSizeApp\obj\Debug\SizeVsClientSizeApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Form\SizeVsClientSizeApp\obj\Debug\SizeVsClientSizeApp.exe
-F:\ytw\C#\Form\SizeVsClientSizeApp\obj\Debug\SizeVsClientSizeApp.pdb

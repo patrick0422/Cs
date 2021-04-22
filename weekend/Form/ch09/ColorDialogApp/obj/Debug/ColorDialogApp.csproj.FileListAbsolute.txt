@@ -1,9 +1,0 @@
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\bin\Debug\ColorDialogApp.exe.config
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\bin\Debug\ColorDialogApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\bin\Debug\ColorDialogApp.pdb
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\obj\Debug\ColorDialogApp.Form1.resources
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\obj\Debug\ColorDialogApp.Properties.Resources.resources
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\obj\Debug\ColorDialogApp.csproj.GenerateResource.cache
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\obj\Debug\ColorDialogApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\obj\Debug\ColorDialogApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch09\ColorDialogApp\obj\Debug\ColorDialogApp.pdb

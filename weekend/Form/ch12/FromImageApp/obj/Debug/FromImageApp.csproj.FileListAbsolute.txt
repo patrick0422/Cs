@@ -1,9 +1,0 @@
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\bin\Debug\FromImageApp.exe.config
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\bin\Debug\FromImageApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\bin\Debug\FromImageApp.pdb
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\obj\Debug\FromImageApp.Form1.resources
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\obj\Debug\FromImageApp.Properties.Resources.resources
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\obj\Debug\FromImageApp.csproj.GenerateResource.cache
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\obj\Debug\FromImageApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\obj\Debug\FromImageApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch12\FromImageApp\obj\Debug\FromImageApp.pdb

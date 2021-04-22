@@ -1,9 +1,0 @@
-F:\ytw\C#\Form\LoadClosedEventApp\bin\Debug\LoadClosedEventApp.exe.config
-F:\ytw\C#\Form\LoadClosedEventApp\bin\Debug\LoadClosedEventApp.exe
-F:\ytw\C#\Form\LoadClosedEventApp\bin\Debug\LoadClosedEventApp.pdb
-F:\ytw\C#\Form\LoadClosedEventApp\obj\Debug\LoadClosedEventApp.Form1.resources
-F:\ytw\C#\Form\LoadClosedEventApp\obj\Debug\LoadClosedEventApp.Properties.Resources.resources
-F:\ytw\C#\Form\LoadClosedEventApp\obj\Debug\LoadClosedEventApp.csproj.GenerateResource.cache
-F:\ytw\C#\Form\LoadClosedEventApp\obj\Debug\LoadClosedEventApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Form\LoadClosedEventApp\obj\Debug\LoadClosedEventApp.exe
-F:\ytw\C#\Form\LoadClosedEventApp\obj\Debug\LoadClosedEventApp.pdb

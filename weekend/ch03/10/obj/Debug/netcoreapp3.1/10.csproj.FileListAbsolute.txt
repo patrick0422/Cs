@@ -1,4 +1,0 @@
-F:\ytw\C#\ch03\10\obj\Debug\netcoreapp3.1\10.csprojAssemblyReference.cache
-F:\ytw\C#\ch03\10\obj\Debug\netcoreapp3.1\10.AssemblyInfoInputs.cache
-F:\ytw\C#\ch03\10\obj\Debug\netcoreapp3.1\10.AssemblyInfo.cs
-F:\ytw\C#\ch03\10\obj\Debug\netcoreapp3.1\10.csproj.CoreCompileInputs.cache

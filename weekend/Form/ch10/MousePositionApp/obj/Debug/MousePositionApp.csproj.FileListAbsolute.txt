@@ -1,9 +1,0 @@
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\bin\Debug\MousePositionApp.exe.config
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\bin\Debug\MousePositionApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\bin\Debug\MousePositionApp.pdb
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\obj\Debug\MousePositionApp.Form1.resources
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\obj\Debug\MousePositionApp.Properties.Resources.resources
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\obj\Debug\MousePositionApp.csproj.GenerateResource.cache
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\obj\Debug\MousePositionApp.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\obj\Debug\MousePositionApp.exe
-F:\ytw\C#\Cs\weekend\Form\ch10\MousePositionApp\obj\Debug\MousePositionApp.pdb

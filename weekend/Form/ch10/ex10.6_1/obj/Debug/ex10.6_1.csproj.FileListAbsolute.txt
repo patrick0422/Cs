@@ -1,9 +1,0 @@
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\bin\Debug\ex10.6_1.exe.config
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\bin\Debug\ex10.6_1.exe
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\bin\Debug\ex10.6_1.pdb
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\obj\Debug\ex10._6_1.Form1.resources
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\obj\Debug\ex10._6_1.Properties.Resources.resources
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\obj\Debug\ex10.6_1.csproj.GenerateResource.cache
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\obj\Debug\ex10.6_1.csproj.CoreCompileInputs.cache
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\obj\Debug\ex10.6_1.exe
-F:\ytw\C#\Cs\weekend\Form\ch10\ex10.6_1\obj\Debug\ex10.6_1.pdb

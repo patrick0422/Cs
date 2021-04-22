@@ -1,7 +1,0 @@
-F:\ytw\C#\ch01\Code02_16\bin\Debug\Code02_16.exe.config
-F:\ytw\C#\ch01\Code02_16\bin\Debug\Code02_16.exe
-F:\ytw\C#\ch01\Code02_16\bin\Debug\Code02_16.pdb
-F:\ytw\C#\ch01\Code02_16\obj\Debug\Code02_16.csprojAssemblyReference.cache
-F:\ytw\C#\ch01\Code02_16\obj\Debug\Code02_16.csproj.CoreCompileInputs.cache
-F:\ytw\C#\ch01\Code02_16\obj\Debug\Code02_16.exe
-F:\ytw\C#\ch01\Code02_16\obj\Debug\Code02_16.pdb
