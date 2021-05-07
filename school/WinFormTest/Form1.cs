@@ -15,26 +15,16 @@ namespace WinFormTest
         public Form1()
         {
             InitializeComponent();
-
-            label1.Font = new Font("맑은고딕", 12f, FontStyle.Bold);
         }
 
-        bool a = true;
         private void button1_Click(object sender, EventArgs e)
         {
-            if (a)
-            {
-                label1.Text = "Hello World!";
-                label1.ForeColor = Color.Blue;
-                label1.BackColor = Color.Red;
-                a = !a;
-            }
-            else
-            {
-                label1.ForeColor = Color.Black;
-                label1.BackColor = Color.Transparent;
-                a = !a;
-            }
+            double height = double.Parse(textBox1.Text.Trim());
+            double weight = double.Parse(textBox2.Text.Trim());
+
+            double result = weight / (height * height);
+
+            labelResult.Text = "당신의 BMI는 " + result.ToString() + "입니다.";
         }
     }
 }
