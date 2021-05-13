@@ -1,0 +1,10 @@
+D:\Coding\Cs\school\ControlTest2\bin\Debug\ControlTest2.exe.config
+D:\Coding\Cs\school\ControlTest2\bin\Debug\ControlTest2.exe
+D:\Coding\Cs\school\ControlTest2\bin\Debug\ControlTest2.pdb
+D:\Coding\Cs\school\ControlTest2\obj\Debug\ControlTest2.csprojAssemblyReference.cache
+D:\Coding\Cs\school\ControlTest2\obj\Debug\ControlTest2.Form1.resources
+D:\Coding\Cs\school\ControlTest2\obj\Debug\ControlTest2.Properties.Resources.resources
+D:\Coding\Cs\school\ControlTest2\obj\Debug\ControlTest2.csproj.GenerateResource.cache
+D:\Coding\Cs\school\ControlTest2\obj\Debug\ControlTest2.csproj.CoreCompileInputs.cache
+D:\Coding\Cs\school\ControlTest2\obj\Debug\ControlTest2.exe
+D:\Coding\Cs\school\ControlTest2\obj\Debug\ControlTest2.pdb

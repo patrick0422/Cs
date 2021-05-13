@@ -1,0 +1,10 @@
+D:\Coding\Cs\school\CotrolTest\bin\Debug\CotrolTest.exe.config
+D:\Coding\Cs\school\CotrolTest\bin\Debug\CotrolTest.exe
+D:\Coding\Cs\school\CotrolTest\bin\Debug\CotrolTest.pdb
+D:\Coding\Cs\school\CotrolTest\obj\Debug\CotrolTest.csprojAssemblyReference.cache
+D:\Coding\Cs\school\CotrolTest\obj\Debug\CotrolTest.Form1.resources
+D:\Coding\Cs\school\CotrolTest\obj\Debug\CotrolTest.Properties.Resources.resources
+D:\Coding\Cs\school\CotrolTest\obj\Debug\CotrolTest.csproj.GenerateResource.cache
+D:\Coding\Cs\school\CotrolTest\obj\Debug\CotrolTest.csproj.CoreCompileInputs.cache
+D:\Coding\Cs\school\CotrolTest\obj\Debug\CotrolTest.exe
+D:\Coding\Cs\school\CotrolTest\obj\Debug\CotrolTest.pdb
